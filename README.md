@@ -49,7 +49,7 @@ Designed to be **mobile-friendly** and visually clean, it highlights my projects
 
 I’m always open to connecting, learning, and collaborating on projects that make an impact.
 
-* 📧 **Email:** [agbakpedzifa@gmail.com](mailto:agbakpedzifa@gmail.com)
+* 📧 **Email:** [agbakpedzifaaku3@gmail.com](mailto:agbakpedzifaaku3@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/dzifa-aku-agbakpe](https://www.linkedin.com/in/dzifa-aku-agbakpe)
 * 🖥️ **Portfolio:** Coming soon!
 

@@ -1,64 +1,55 @@
 # DzifaAA
-<div align="center">
-  <h1>Hi, I’m <strong>Dzifa</strong> 👋</h1>
-  <p><em>ALX Front-End Learner • Aspiring Front-End Developer</em></p>
-</div>
+<h1 align="center">Hi 👋, I'm Dzifa Aku Agbakpe</h1>
+<h3 align="center">🌱 Aspiring Front-End Developer | ALX Front-End Learner | Building Tech That Improves Lives</h3>
 
 ---
 
-## 🌟 Quick Pitch
+### 👩‍💻 About Me
+I’m a passionate **Front-End Developer in training** at **ALX**, driven by the goal of **creating technology that helps people**.  
+I enjoy **building, learning, and solving problems** through design and code — aiming to create user-friendly, mobile-responsive, and accessible web experiences.  
 
-I started learning software engineering because I want to create technology that helps people.
-I’m passionate about building and learning — discovering how great design and clean code can make life better for others.
-I’m inspired by the idea of using technology to improve lives and bring creative ideas to reality.
+🌟 **My Vision:**  
+To become a **skilled Front-End Developer** who builds **tech for the future** — empowering individuals and communities through innovative, responsive solutions.
 
----
-
-## 🚀 My Vision & Projects
-
-My vision is to become a skilled front-end developer who builds technology for the future — tools and experiences that truly help people.
-
-That’s why I’m focused on creating **mobile-friendly web apps**, **responsive websites**, and **interactive dashboards** that combine functionality with clean, accessible design.
+💡 **What I’m passionate about:**  
+- Learning and experimenting with new front-end tools and frameworks  
+- Creating **mobile-friendly web apps**, **modern websites**, and **interactive dashboards**  
+- Using design and development to improve everyday life  
 
 ---
 
-## 🛠️ Skills & Tech Stack
-
-<div>
-  <p><strong>Languages:</strong> HTML, CSS, JavaScript</p>
-  <p><strong>Frameworks & Libraries:</strong> React, Tailwind CSS</p>
-  <p><strong>Tools & Platforms:</strong> Git, GitHub, VS Code</p>
-</div>
-
-> I’m constantly learning, improving, and exploring new ways to create user-friendly, responsive web experiences.
-
----
-
-## ✨ Featured Project
-
-### 📌 [Portfolio Website](https://github.com/[your-username]/[portfolio-repo])
-
-A personal portfolio website built with **HTML, CSS, and JavaScript**, showcasing my journey as a front-end developer.
-Designed to be **mobile-friendly** and visually clean, it highlights my projects, skills, and contact information.
-
-> 🧠 **Focus:** Responsive design, clean code, and user-friendly layout.
-
----
-
-## 📫 Contact Me
-
-I’m always open to connecting, learning, and collaborating on projects that make an impact.
-
-* 📧 **Email:** [agbakpedzifaaku3@gmail.com](mailto:agbakpedzifaaku3@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/dzifa-aku-agbakpe](https://[www.linkedin.com/in/dzifa-aku-agbakpe](https://www.linkedin.com/in/dzifa-aku-agbakpe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-* 🖥️ **Portfolio:** Coming soon!
-
-<p align="center">
-  ⭐ If you like my work, consider following me or starring my repositories!
+### 🚀 Skills and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,tailwind,bootstrap,vscode,figma" alt="skills logos" />
 </p>
 
 ---
 
-<footer>
-  <p align="center">Made with ❤️ • Learnings at ALX Front-End Program</p>
-</footer>
+### 🔭 What I'm Currently Working On
+- Enhancing my **front-end development portfolio**  
+- Building responsive projects as part of the **ALX Front-End Program**  
+- Improving my skills in **React**, **UI design**, and **API integration**
+
+---
+
+### 🌱 Currently Learning
+- **Advanced React Concepts**  
+- **Version Control and GitHub Collaboration**  
+- **Responsive Design & Accessibility Best Practices**
+
+---
+
+### 🤝 Let’s Connect!
+<p align="left">
+  <a href="mailto:agbakpedzifaaku3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/dzifa-aku-agbakpe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Dzifa%20Aku%20Agbakpe-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+I believe every small step in coding is a step toward **changing the world** 🌍  
+
+---
+
+⭐️ *“Building and learning every day — one line of code at a time.”*  

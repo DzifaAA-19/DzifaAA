@@ -50,7 +50,7 @@ Designed to be **mobile-friendly** and visually clean, it highlights my projects
 I’m always open to connecting, learning, and collaborating on projects that make an impact.
 
 * 📧 **Email:** [agbakpedzifaaku3@gmail.com](mailto:agbakpedzifaaku3@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/dzifa-aku-agbakpe](https://www.linkedin.com/in/dzifa-aku-agbakpe)
+* 💼 **LinkedIn:** [linkedin.com/in/dzifa-aku-agbakpe](https://[www.linkedin.com/in/dzifa-aku-agbakpe](https://www.linkedin.com/in/dzifa-aku-agbakpe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 * 🖥️ **Portfolio:** Coming soon!
 
 <p align="center">
